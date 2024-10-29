@@ -18,4 +18,5 @@ The application is currently only available in Arabic.
 
 
 ## APK file
-[Chat Direct.apk](github%20assets/chat%direct.apk)
+[Chat Direct.apk](https://github.com/mohamed-amen/Chat-Direct/raw/refs/heads/master/github%20assets/Chat%20Direct.apk)
+
