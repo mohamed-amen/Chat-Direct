@@ -13,10 +13,12 @@ The application is currently only available in Arabic.
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/d9c2cd8c-c173-4f61-923c-078251fd5f4c" width="500" />
-<img src="https://github.com/user-attachments/assets/34379f71-4ad1-4f58-8396-354d35c2dbee" width="500" />
-<img src="https://github.com/user-attachments/assets/9a0d7826-8ad2-4ccb-80b1-88a2e9b2dc1c" width="500" />
-<img src="https://github.com/user-attachments/assets/536a624e-acef-4ec1-865d-b43e98d02490" width="500" />
+<!-- <img src="https://github.com/user-attachments/assets/d9c2cd8c-c173-4f61-923c-078251fd5f4c" width="400" />
+<img src="https://github.com/user-attachments/assets/34379f71-4ad1-4f58-8396-354d35c2dbee" width="400" />
+<img src="https://github.com/user-attachments/assets/9a0d7826-8ad2-4ccb-80b1-88a2e9b2dc1c" width="400" />
+<img src="" width="400" /> -->
 
 
+## APK file
 
+[chatdirect.apk] (https://github.com/user-attachments/assets/536a624e-acef-4ec1-865d-b43e98d02490)
